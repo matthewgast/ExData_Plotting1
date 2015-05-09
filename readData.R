@@ -2,9 +2,9 @@
 ##
 ## Matthew Gast, May 2015
 ##
-## These functions read the data used in the first programming project
-## in the JHU Bloomberg School of Health's Data Science Specialization
-## on Coursera
+## Course: "Exploratory Data Analysis" at the JHU Bloomberg School of
+## Health (Coursera Data Science Specialization). These functions read
+## the data used for the first course project.
 
 readData <- function (directory, datafile) {
     # This function reads data from a specified location
